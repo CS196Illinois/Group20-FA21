@@ -3,7 +3,7 @@ Group Name: Group 20
 
 [MVP Link](https://docs.google.com/document/d/1gqTVDe-6l3PcGpUPMTnpD2uvVwxnNXNswGNPzYifYik/edit?usp=sharing)
 
-Team Members: aananth2, diegoat2, aamande2
+Team Members: aananth2, diegoat2, aamande2, souvikg2
 
 Project Manager: gychen2
 
